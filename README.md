@@ -1,7 +1,7 @@
 # Group 22 Project 1 - ISS Tracker App
 
 ## Description
-ISStracker is a dynamic, responsive codebase created to actively track the location of the International Space Station at all times. This codebase primarily consists of JavaScript and jQuery framework used to extract the OpenWeather, Open Notify, Leaflet Map and Wikipedia web APIs via AJAX. When the user searches by their zip code, the system will display the next five times the ISS will pass by their location, as well as the local forecasts for those passby times.
+ISS Tracker is a dynamic, responsive codebase created to actively track the location of the International Space Station at all times. This codebase primarily consists of JavaScript and jQuery framework used to extract the OpenWeather, Open Notify, Leaflet Map and Wikipedia web APIs via AJAX. When the user searches by their zip code, the system will display the next five times the ISS will pass by their location, as well as the local forecasts for those passby times.
 
 --
 ## Technologies Used
